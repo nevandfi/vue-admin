@@ -10,7 +10,8 @@
     "animejs": "^3.2.1",
     "uid": "^2.0.0",
     "vue": "^3.2.16",
-    "vue-router": "^4.0.11"
+    "vue-router": "^4.0.11",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@iconify/json": "^1.1.412",

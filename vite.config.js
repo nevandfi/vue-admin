@@ -44,6 +44,7 @@ export default defineConfig({
             '@modules': '/src/modules',
             '@router': '/src/router',
             '@utils': '/src/utils',
+            '@store': '/src/store',
         }
     }
 })
